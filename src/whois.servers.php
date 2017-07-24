@@ -161,6 +161,7 @@ return array(
     'clinic'                 => 'whois.donuts.co',
     'clothing'               => 'whois.donuts.co',
     'club'                   => 'whois.nic.club',
+    'cm'                     => 'whois.netcom.cm',
     'cn'                     => 'whois.cnnic.cn',
     'co'                     => 'whois.nic.co',
     'codes'                  => 'whois.donuts.co',
